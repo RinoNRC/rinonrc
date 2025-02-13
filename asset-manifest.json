@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/rinonrc/static/css/main.ebbee5bf.css",
-    "main.js": "/rinonrc/static/js/main.523bf998.js",
+    "main.css": "/rinonrc/static/css/main.a02beae3.css",
+    "main.js": "/rinonrc/static/js/main.2dd1f31e.js",
     "static/js/488.0ad0a6af.chunk.js": "/rinonrc/static/js/488.0ad0a6af.chunk.js",
     "static/media/special-heart.gif": "/rinonrc/static/media/special-heart.fc9ffdbe197b1eb2faf7.gif",
     "static/media/running-cat.gif": "/rinonrc/static/media/running-cat.d5f74940a447f618e115.gif",
     "static/media/heart.gif": "/rinonrc/static/media/heart.9a06c6c55abb53022183.gif",
-    "static/media/github.png": "/rinonrc/static/media/github.50dd786674f991402395.png",
-    "static/media/telegram.png": "/rinonrc/static/media/telegram.e35175ce7254fec96735.png",
     "index.html": "/rinonrc/index.html",
-    "main.ebbee5bf.css.map": "/rinonrc/static/css/main.ebbee5bf.css.map",
-    "main.523bf998.js.map": "/rinonrc/static/js/main.523bf998.js.map",
+    "main.a02beae3.css.map": "/rinonrc/static/css/main.a02beae3.css.map",
+    "main.2dd1f31e.js.map": "/rinonrc/static/js/main.2dd1f31e.js.map",
     "488.0ad0a6af.chunk.js.map": "/rinonrc/static/js/488.0ad0a6af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebbee5bf.css",
-    "static/js/main.523bf998.js"
+    "static/css/main.a02beae3.css",
+    "static/js/main.2dd1f31e.js"
   ]
 }
