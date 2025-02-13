@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rinonrc/static/css/main.3f6bcbf6.css",
+    "main.css": "/rinonrc/static/css/main.2c66d9f5.css",
     "main.js": "/rinonrc/static/js/main.9f28c033.js",
     "static/js/488.0ad0a6af.chunk.js": "/rinonrc/static/js/488.0ad0a6af.chunk.js",
     "static/media/special-heart.gif": "/rinonrc/static/media/special-heart.fc9ffdbe197b1eb2faf7.gif",
     "static/media/running-cat.gif": "/rinonrc/static/media/running-cat.d5f74940a447f618e115.gif",
     "static/media/heart.gif": "/rinonrc/static/media/heart.9a06c6c55abb53022183.gif",
     "index.html": "/rinonrc/index.html",
-    "main.3f6bcbf6.css.map": "/rinonrc/static/css/main.3f6bcbf6.css.map",
+    "main.2c66d9f5.css.map": "/rinonrc/static/css/main.2c66d9f5.css.map",
     "main.9f28c033.js.map": "/rinonrc/static/js/main.9f28c033.js.map",
     "488.0ad0a6af.chunk.js.map": "/rinonrc/static/js/488.0ad0a6af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f6bcbf6.css",
+    "static/css/main.2c66d9f5.css",
     "static/js/main.9f28c033.js"
   ]
 }
